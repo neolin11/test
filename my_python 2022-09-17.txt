@@ -1,3 +1,4 @@
+import beautifulsoup
 print("hello")
 a = b + c
 error
